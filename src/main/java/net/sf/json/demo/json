@@ -1,0 +1,21 @@
+{
+    "errorCode":0,
+    "errorInfo":"操作成功",
+    "result":{
+        "list":[
+            {
+                "id":1001,
+                "name":"ming"
+            },
+            {
+                "id":1002,
+                "name":"hua"
+            },
+            {
+                "id":1003,
+                "name":"jun"
+            }
+        ],
+        "totalCount":3
+    }
+}
